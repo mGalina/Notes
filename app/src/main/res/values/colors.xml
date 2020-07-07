@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#03A9F4</color>
+
+    <!-- colors for background pin activity style -->
+
+    <color name="gradient_start_color">#FFFFFF</color>
+    <color name="gradient_center_color">#00BCD4</color>
+    <color name="gradient_end_color">#0097AA</color>
+
+    <color name="indicator">#5C8A8F</color>
+
+</resources>
