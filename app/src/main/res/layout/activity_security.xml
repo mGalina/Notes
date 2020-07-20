@@ -160,6 +160,7 @@
             android:text="0" />
 
         <ImageView
+            android:id="@+id/backspace"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginHorizontal="15sp"
